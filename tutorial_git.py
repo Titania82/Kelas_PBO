@@ -1,3 +1,3 @@
 
-print ("Nama=Titania Emaniar")
-print ("Prodi=Sistem Telekomunikasi")
+print ("Nama: Titania Emaniar")
+print ("Prodi: Sistem Telekomunikasi")
