@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
-
-print ('Titania Emaniar')
-print ('Sistem Telekomunikasi')
+print ("Nama=Titania Emaniar")
+print ("Prodi=Sistem Telekomunikasi")
