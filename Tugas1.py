@@ -8,9 +8,6 @@ class student:
         self.status=s
         self.universitas=u
         self.alamat=t
-       
-     
-   
     def get_age(self):
         return self.age
     def get_gender(self):
