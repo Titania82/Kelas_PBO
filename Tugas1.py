@@ -22,7 +22,7 @@ class student:
     def get_alamat(self):
         return self.alamat
      
-f = student ("Titania Emaniar", 21, "Female", "Mahasiswa","UPI", "Bogor")
+f = student ("Titania Emaniar", 21, "Perempuan", "Mahasiswa","UPI", "Bogor")
 print ("Nama        :", f.full_name)
 print ("Umur        :", f.get_age())
 print ("Gender      :", f.get_gender()) 
